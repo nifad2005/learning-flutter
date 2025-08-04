@@ -16,11 +16,9 @@ class MyApp extends StatelessWidget {
           child: Text("Hello Nifad", style: TextStyle(fontSize: 24)),
         ),
 
-        
+
       ),
     );
-
-
   }
 
 }
